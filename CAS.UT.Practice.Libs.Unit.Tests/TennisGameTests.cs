@@ -6,8 +6,15 @@ namespace CAS.UT.Practice.Libs.Unit.Tests
     public class TennisGameTests
     {
         [Test]
-        public void Test()
+        public void Should_DisplayNameIsGame20200703_When_NameIsGame_And_OccuredDateIsDefaultValue()
         {
+            //TODO: Arrange
+
+            //TODO: Action
+
+            //TODO: Assertion
         }
+
+        //Another Test Case: Name is "G2ame" And occuredDate is 1937/07/07
     }
 }
